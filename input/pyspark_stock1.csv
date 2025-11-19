@@ -1,0 +1,11 @@
+Stock,Sector,Month,PriceStart,PriceEnd
+AAPL,Technology,2025-01,120.5,175.2
+MSFT,Technology,2025-01,210.1,280.5
+WMT,Consumer Staples,2025-01,140.0,150.0
+TSLA,Automotive,2025-01,600.0,880.0
+JPM,Financials,2025-01,95.0,105.0
+BABA,Consumer Discretionary,2025-01,180.0,160.0
+RELIANCE,Energy,2025-01,2200.0,2400.0
+TCS,Technology,2025-01,3100.0,3500.0
+HDFC,Financials,2025-01,1500.0,1650.0
+BAJAJ-AUTO,Automotive,2025-01,4800.0,5200.0
